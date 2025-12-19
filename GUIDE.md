@@ -88,3 +88,8 @@ This creates a session token valid for a short time — enough for local workflo
  - Builds: Inject tokens in Docker builds via build args, remove after use
 
 These changes protect your projects and the entire npm ecosystem from token leakage and supply chain attacks.
+
+## 📌 Reference
+- [Official npm blog: npm classic tokens revoked, session-based auth and CLI token management now available (Dec 9, 2025)](https://github.blog/changelog/2025-12-09-npm-classic-tokens-revoked-session-based-auth-and-cli-token-management-now-available/)
+
+## 👋🏻 Keep Coding Thank You [Shubham Sharma](https://www.linkedin.com/in/shubhamsharmaer/)
